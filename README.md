@@ -1,4 +1,3 @@
 # hoge
 huga
 piyo
-wow
